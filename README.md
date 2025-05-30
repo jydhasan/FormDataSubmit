@@ -1,3 +1,18 @@
+
+
+```bash
+npm install react-image-crop
+```
+------
+Picture should look like
+
+
+<img width="960" alt="msedge_J8x9GkvQS9" src="https://github.com/user-attachments/assets/40f126fd-913f-4927-a36b-414085635a2f" />
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
